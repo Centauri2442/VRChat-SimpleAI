@@ -1,3 +1,6 @@
+## Note to Reviewers
+This project was developed under tight constraints (VRChat UdonSharp and networking limitations) and does not reflect my current code quality standards. For more representative examples of my work, please see my pinned repositories or visit my [portfolio](https://studioviolet.net/).
+
 # Simple AI | An UdonSharp based local and synced AI package, meant for use in VRChat! 
 
 SimpleAI features multiple different forms of AI, and is meant to be used alongside the tutorial that I did as part of TLX! It is useful beyond that however, as there is multiple different AI's that you can base your own AI's off of!
